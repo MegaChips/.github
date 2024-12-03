@@ -1,0 +1,28 @@
+name: 実装以外の業務・雑務
+description: 実装以外の業務・雑務はこちら
+body:
+  - type: textarea
+    id: purpose
+    attributes:
+      label: 目的
+      description: この業務の目的を記載してください。
+    validations:
+      required: true
+  - type: textarea
+    id: method
+    attributes:
+      label: 方法
+      description: どのような方法で業務を進めていくか記載してください。
+    validations:
+      required: true
+  - type: textarea
+    id: complete
+    attributes:
+      label: 終了要件
+      description: このissueをcloseする条件を記載してください。
+    validations:
+      required: true
+  - type: textarea
+    id: supplement
+    attributes:
+      label: 補足
