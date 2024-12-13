@@ -1,5 +1,7 @@
-name: 実装以外の業務・雑務
+name: （実作業）実装以外の業務・雑務
 description: 実装以外の業務・雑務はこちら
+labels: 実作業
+title: 'その他作業: '
 body:
   - type: textarea
     id: purpose

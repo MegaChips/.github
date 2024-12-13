@@ -1,5 +1,7 @@
-name: 改善・リファクタ
+name: （実作業）改善・リファクタ
 description: 改善・リファクタはこちら
+labels: 実作業
+title: 'リファクタリング: '
 body:
   - type: textarea
     id: background
